@@ -6,7 +6,7 @@ import NavBar from './components/Navbar';
 import Hero from './components/HeroSection';
 import Skills from './components/Skills';
 import Educations from './components/Education';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import ProjectDetails from "./components/ProjectDetails";
