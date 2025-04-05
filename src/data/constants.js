@@ -15,7 +15,7 @@ export const Bio = {
     team environment`,
   github: "https://github.com/PRADYUMNP",
   resume:
-    "https://drive.google.com/file/d/1-FqOhTsCwby4pJm6xae-dmkf2efle5r0/view?usp=drive_link",
+    "https://drive.google.com/file/d/11ripfrxEkPmjbhZGEfBFGH4umj_iotW3/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/pradyumn-pawar-2ab6b21b1/",
   email: "https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFwhttps://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw",
   insta: "https://www.instagram.com/pradyumn_pawar_650/",
