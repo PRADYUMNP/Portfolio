@@ -116,7 +116,7 @@ const Certifications = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Certifications</Title>
         <Desc>
-          I have Completed on a wide range of Certification. From verious platform. Here are some of my Certifications.
+          I have Completed on a wide range of Certification. From various platform. Here are some of my Certifications.
         </Desc>
         <ToggleButtonGroup >
           
